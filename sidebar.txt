@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hag:home|Door43 (hag)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hag|d43-hag repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hag/archive/master.zip|d43-hag.zip]]
+
+**Recent Changes**
+{{changes>ns = hag}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hag|Ethnologue data]]
+
